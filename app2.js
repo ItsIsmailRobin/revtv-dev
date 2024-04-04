@@ -5516,7 +5516,7 @@ document.write(
   '<script src="//cdn.jsdelivr.net/npm/marked@4.0.0/marked.min.js"></script>'
 );
 document.write(
-  "<style>.mdui-appbar .mdui-toolbar{height:56px;font-size:1pc}.mdui-toolbar>i{opacity:.5}.mdui-toolbar>i{padding:0}.mdui-toolbar>a:hover,a.active,a.mdui-typo-headline{opacity:1}.mdui-container{max-width:1020px}.mdui-list-item{transition:none}.mdui-list>.th{background-color:initial}.mdui-list-item>a{width:100%;line-height:3pc}.mdui-list-item{margin:2px 0;padding:0}.mdui-toolbar>a:last-child{opacity:1; color: #000}@media screen and (max-width:1020px){.mdui-list-item .mdui-text-right{display:none}.mdui-container{width:100%!important;margin:0}}</style>"
+  "<style>.mdui-appbar .mdui-toolbar{height:56px;font-size:1pc}.mdui-toolbar>i{opacity:.5}.mdui-toolbar>i{padding:0}.mdui-toolbar>a:hover,a.active,a.mdui-typo-headline{opacity:1}.mdui-list-item{transition:none}.mdui-list>.th{background-color:initial}.mdui-list-item>a{width:100%;line-height:3pc}.mdui-list-item{margin:2px 0;padding:0}.mdui-toolbar>a:last-child{opacity:1; color: #000}@media screen and {.mdui-list-item .mdui-text-right{display:none}.mdui-container{width:100%!important;margin:0}}</style>"
 );
 if (UI.dark_mode) {
   document.write(
@@ -5583,7 +5583,7 @@ function init() {
   if (UI.credits) {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a href="https://github.com/cheems/goindex-extended" target="_blank">
+      <a href="https://github.com/ItsIsmailRobin/revtv-dev/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=cheems&amp;message=goindex-extended&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="cheems - goindex-extended">
       </a>
     </div>
