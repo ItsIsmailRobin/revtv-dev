@@ -5584,7 +5584,7 @@ function init() {
     html += `
     <div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
       <a href="https://github.com/cheems/goindex-extended" target="_blank">
-        <img src="https://img.shields.io/static/v1?label=cheems&amp;message=goindex-extended&amp;color=1E89F2&amp;labelColor=374455&amp;logo=github" alt="cheems - goindex-extended">
+        <img src="https://i.postimg.cc/hGpY0kJj/6f747d293ac1569b41f12d6836837627-removebg-preview.png" alt="cheems - goindex-extended">
       </a>
     </div>
     </div>
